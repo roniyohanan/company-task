@@ -1,0 +1,9 @@
+{
+    "users": {
+        "alice": 4,
+        "bob": 5,
+        "charlie": 2,
+        "david": 6,
+        "eve": 3
+    }
+}
